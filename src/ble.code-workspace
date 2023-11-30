@@ -1,0 +1,57 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../Users/robertlukan/Downloads/b-parasite-main-2/code/nrf-connect/samples/ble"
+		},
+		{
+			"name": "zigbee",
+			"path": "../../../../../../../../../Users/robertlukan/Downloads/b-parasite-main-3/code/nrf-connect/samples/zigbee"
+		},
+		{
+			"name": "zigbee",
+			"path": "../../../../../../../../../Users/robertlukan/Downloads/b-parasite-main-4/code/nrf-connect/samples/zigbee"
+		},
+		{
+			"name": "ble",
+			"path": "../../../../../../../../../Users/robertlukan/Downloads/b-parasite-main-4/code/nrf-connect/samples/ble"
+		},
+		{
+			"name": "udp",
+			"path": "../../udp"
+		},
+		{
+			"name": "lte_ble_gateway",
+			"path": "../../lte_ble_gateway"
+		},
+		{
+			"name": "nrf_cloud_mqtt_multi_service",
+			"path": ".."
+		},
+		{
+			"name": "hci_lpuart",
+			"path": "../../../bluetooth/hci_lpuart"
+		},
+		{
+			"name": "lte-gateway-main",
+			"path": "../../../../../../../../../Users/robertlukan/Downloads/lte-gateway-main"
+		},
+		{
+			"name": "lte-gateway-main",
+			"path": "../../../lte-gateway-main"
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": [
+			"${workspaceFolder}",
+			"/Users/robertlukan/Downloads/b-parasite-main-4/code/nrf-connect/samples/zigbee",
+			"/Users/robertlukan/Downloads/b-parasite-main-4/code/nrf-connect/samples/ble",
+			"/opt/nordic/ncs/v2.3.0/nrf/samples/nrf9160/lte_ble_gateway"
+		],
+		"nrf-connect.topdir": "${nrf-connect.sdk:2.3.0}",
+		"nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.3.0}",
+		"files.associations": {
+			"aggregator.h": "c",
+			"adc.h": "c"
+		}
+	}
+}
